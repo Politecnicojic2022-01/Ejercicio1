@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ListaVentas SYSTEM "ListaVentas.dtd">
+<ListaVentas>
+    <Venta>
+        <Importe></Importe>
+        <Comprador></Comprador>
+        <Vendedor></Vendedor>
+        <Fecha></Fecha>
+        <CodigoFactura></CodigoFactura>
+    </Venta>
+    <Venta>
+        <Importe></Importe>
+        <Comprador></Comprador>
+        <Vendedor></Vendedor>
+        <CodigoFactura></CodigoFactura>
+    </Venta>
+</ListaVentas>
