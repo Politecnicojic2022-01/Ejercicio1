@@ -2,16 +2,16 @@
 <!DOCTYPE ListaVentas SYSTEM "ListaVentas.dtd">
 <ListaVentas>
     <Venta>
-        <Importe></Importe>
-        <Comprador></Comprador>
-        <Vendedor></Vendedor>
-        <Fecha></Fecha>
-        <CodigoFactura></CodigoFactura>
+        <Importe>1000</Importe>
+        <Comprador>Juan</Comprador>
+        <Vendedor>Carlos</Vendedor>
+        <Fecha>20220601</Fecha>
+        <CodigoFactura>001</CodigoFactura>
     </Venta>
     <Venta>
-        <Importe></Importe>
-        <Comprador></Comprador>
-        <Vendedor></Vendedor>
-        <CodigoFactura></CodigoFactura>
+        <Importe>2000</Importe>
+        <Comprador>Carla</Comprador>
+        <Vendedor>Maria</Vendedor>
+        <CodigoFactura>002</CodigoFactura>
     </Venta>
 </ListaVentas>
